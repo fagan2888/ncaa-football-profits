@@ -3,6 +3,7 @@ ncaa-football-profits
 
 NCAA Football profits by college/university, per year. Found on reddit. Originally. Currrently MIA.  
 
-
+[2013-2014](http://web.archive.org/web/20150408003330/http://sports.usatoday.com/ncaa/finances/) 
+[2012-2013](http://web.archive.org/web/20150320014707/http://sports.usatoday.com/ncaa/finances/)  
 [2014-15 NCAA Finances](http://web.archive.org/web/20161202075941/http://sports.usatoday.com/ncaa/finances/)
 
